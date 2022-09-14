@@ -60,3 +60,4 @@ class Rectangle(Figure):
 if __name__ == "__main__":
     context = Context(Rectangle())
     context.do_something_logic([[-4, -2], [4, -2], [4, 2], [-4, 2]])
+    #123
